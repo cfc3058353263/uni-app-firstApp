@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/main/main",
+    "pages/domiScore/domiScore",
+    "pages/classtable/classtable",
+    "pages/check/check",
+    "pages/choose/choose",
+    "pages/choose/course/course",
+    "pages/choose/selection/selection"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "scope.userLocation"
+    }
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,60 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "classtable",
+          "pathName": "pages/classtable/classtable",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/check/check",
+          "pathName": "pages/check/check",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/choose/choose",
+          "pathName": "pages/main/main",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/choose/choose",
+          "pathName": "pages/choose/choose",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/choose/choose",
+          "pathName": "pages/choose/choose",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/choose/choose",
+          "pathName": "pages/choose/choose",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/choose/selection/selection",
+          "pathName": "pages/choose/selection/selection",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

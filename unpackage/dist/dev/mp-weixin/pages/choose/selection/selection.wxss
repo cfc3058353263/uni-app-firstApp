@@ -1,0 +1,28 @@
+
+page {
+	background-color: #f4f4f4;
+}
+.u-dropdown__menu__item{
+	border: 1px solid #f1f1f1;
+}
+.u-th{
+	color: #333;
+	height: 40px;
+	line-height: 40px;
+	background: #f1f9f8 !important;
+	border-bottom: 2px solid #189e95 !important;
+}
+.u-td{
+	height: 80rpx;
+}
+
+.content .container.data-v-15e3e0ec {
+  box-sizing: border-box;
+  padding: 20rpx 28rpx 20rpx;
+  background-color: #fff;
+}
+.content .container .subject-table.data-v-15e3e0ec {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+

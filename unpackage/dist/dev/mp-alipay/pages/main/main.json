@@ -1,0 +1,11 @@
+{
+  "defaultTitle": "主页",
+  "titleBarColor": "#2ca59d",
+  "usingComponents": {
+    "uni-drawer": "/node-modules/npm-scope-dcloudio/uni-ui/lib/uni-drawer/uni-drawer",
+    "header": "/pages/main/header",
+    "person-box": "/pages/main/personBox",
+    "drawer": "/pages/main/drawer",
+    "main-module": "/pages/main/mainModule"
+  }
+}

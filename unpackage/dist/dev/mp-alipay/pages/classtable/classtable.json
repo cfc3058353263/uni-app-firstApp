@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "我的课程表",
+  "usingComponents": {
+    "header": "/utils/header",
+    "module": "/pages/classtable/module"
+  }
+}

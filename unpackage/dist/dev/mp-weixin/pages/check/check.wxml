@@ -1,0 +1,1 @@
+<view class="content"><header vue-id="ac2d09a4-1" headTitle="{{headTitle}}" bind:__l="__l"></header><module vue-id="ac2d09a4-2" bind:__l="__l"></module></view>

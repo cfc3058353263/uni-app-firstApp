@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-subsection": "/node-modules/uview-ui/components/u-subsection/u-subsection",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "not-info": "/utils/notInfo"
+  }
+}

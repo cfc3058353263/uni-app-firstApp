@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "登录",
+  "titleBarColor": "#0088cc",
+  "usingComponents": {
+    "uni-data-checkbox": "/node-modules/npm-scope-dcloudio/uni-ui/lib/uni-data-checkbox/uni-data-checkbox",
+    "uni-popup": "/node-modules/npm-scope-dcloudio/uni-ui/lib/uni-popup/uni-popup",
+    "uni-popup-message": "/node-modules/npm-scope-dcloudio/uni-ui/lib/uni-popup-message/uni-popup-message"
+  }
+}

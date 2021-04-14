@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "uni-popup": "/node-modules/@dcloudio/uni-ui/lib/uni-popup/uni-popup",
+    "uni-popup-message": "/node-modules/@dcloudio/uni-ui/lib/uni-popup-message/uni-popup-message"
+  },
+  "component": true
+}

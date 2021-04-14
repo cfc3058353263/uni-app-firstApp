@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "uni-popup": "/node-modules/npm-scope-dcloudio/uni-ui/lib/uni-popup/uni-popup",
+    "uni-popup-dialog": "/node-modules/npm-scope-dcloudio/uni-ui/lib/uni-popup-dialog/uni-popup-dialog"
+  },
+  "component": true
+}

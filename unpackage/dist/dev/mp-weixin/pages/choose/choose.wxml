@@ -1,0 +1,1 @@
+<view class="content"><header vue-id="505697e0-1" headTitle="{{headTitle}}" bind:__l="__l"></header><scroll-view><module class="vue-ref" vue-id="505697e0-2" data-ref="module" bind:__l="__l"></module></scroll-view></view>

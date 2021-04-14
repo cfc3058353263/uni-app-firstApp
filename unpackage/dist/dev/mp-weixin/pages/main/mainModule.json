@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "classtable": "/pages/classtable/module"
+  },
+  "component": true
+}

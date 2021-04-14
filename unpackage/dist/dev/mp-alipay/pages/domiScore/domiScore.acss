@@ -1,0 +1,191 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+@font-face {
+  font-family: 'icomoon';
+  src: url(/static/fonts/icomoon.eot);
+  src: url(/static/fonts/icomoon.eot#iefix) format("embedded-opentype"), url(/static/fonts/icomoon.ttf) format("truetype"), url(/static/fonts/icomoon.woff) format("woff"), url(../../static/img/icomoon.6309e8c4.svg#icomoon) format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-exchange:before {
+  content: "\f0ec";
+}
+.icon-coin-yen:before {
+  content: "\e93e";
+}
+.icon-schedule:before {
+  content: "\e8b5";
+}
+.icon-assignment:before {
+  content: "\e85d";
+}
+.icon-assignment_ind:before {
+  content: "\e85e";
+}
+.icon-assignment_late:before {
+  content: "\e85f";
+}
+.icon-domain:before {
+  content: "\e7ee";
+}
+.icon-cloud_queue:before {
+  content: "\e2c2";
+}
+.icon-payment:before {
+  content: "\e8a1";
+}
+.icon-date_range:before {
+  content: "\e916";
+}
+.icon-dehaze:before {
+  content: "\e3c7";
+}
+.icon-exit_to_app:before {
+  content: "\e879";
+}
+.icon-exposure:before {
+  content: "\e3ca";
+}
+.icon-phone_forwarded:before {
+  content: "\e61c";
+}
+.icon-textsms:before {
+  content: "\e0d8";
+}
+.icon-vertical_align_top:before {
+  content: "\e25a";
+}
+.icon-keyboard_arrow_down:before {
+  content: "\e313";
+}
+.icon-keyboard_arrow_up:before {
+  content: "\e316";
+}
+.icon-lock:before {
+  content: "\e897";
+}
+.icon-keyboard_arrow_left:before {
+  content: "\e314";
+}
+.icon-keyboard_arrow_right:before {
+  content: "\e315";
+}
+.icon-stats-dots:before {
+  content: "\e99b";
+}
+.icon-list2:before {
+  content: "\e9bb";
+}
+.icon-add_box:before {
+  content: "\e146";
+}
+.icon-highlight_off:before {
+  content: "\e888";
+}
+.icon-border_color:before {
+  content: "\e22b";
+}
+.icon-library_books:before {
+  content: "\e02f";
+}
+.icon-sentiment_dissatisfied:before {
+  content: "\e811";
+}
+.icon-sentiment_satisfied:before {
+  content: "\e813";
+}
+.icon-web:before {
+  content: "\e051";
+}
+.icon-award:before {
+  content: "\e900";
+}
+.icon-calendar:before {
+  content: "\e901";
+}
+.icon-file-text:before {
+  content: "\e902";
+}
+.icon-layout:before {
+  content: "\e903";
+}
+.icon-paperclip:before {
+  content: "\e904";
+}
+.icon-book:before {
+  content: "\e91f";
+}
+.icon-files-empty:before {
+  content: "\e925";
+}
+.icon-file-text2:before {
+  content: "\e926";
+}
+.icon-earth:before {
+  content: "\e9ca";
+}
+.red {
+  color: #dd1917;
+}
+.orange {
+  color: #f4a509;
+}
+.fontorange {
+  color: #ec6f00;
+}
+.green {
+  color: #017b07;
+}
+.violet {
+  color: #52149d;
+}
+.yellow {
+  color: #f5ed13;
+}
+.bluelight {
+  color: #47c2b9;
+}
+.blue {
+  color: #189e95;
+}
+.graybgc {
+  background-color: #f8f8f8;
+}
+

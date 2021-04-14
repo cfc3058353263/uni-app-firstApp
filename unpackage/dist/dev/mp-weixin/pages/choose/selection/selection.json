@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "选科",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-dropdown": "/node-modules/uview-ui/components/u-dropdown/u-dropdown",
+    "u-dropdown-item": "/node-modules/uview-ui/components/u-dropdown-item/u-dropdown-item",
+    "u-table": "/node-modules/uview-ui/components/u-table/u-table",
+    "u-tr": "/node-modules/uview-ui/components/u-tr/u-tr",
+    "u-th": "/node-modules/uview-ui/components/u-th/u-th",
+    "u-td": "/node-modules/uview-ui/components/u-td/u-td",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "u-modal": "/node-modules/uview-ui/components/u-modal/u-modal",
+    "header": "/utils/header"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的选科",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "header": "/utils/header",
+    "module": "/pages/choose/module"
+  }
+}

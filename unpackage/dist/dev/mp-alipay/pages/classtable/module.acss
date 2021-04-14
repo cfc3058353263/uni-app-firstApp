@@ -1,0 +1,278 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+@font-face {
+  font-family: 'icomoon';
+  src: url(/static/fonts/icomoon.eot);
+  src: url(/static/fonts/icomoon.eot#iefix) format("embedded-opentype"), url(/static/fonts/icomoon.ttf) format("truetype"), url(/static/fonts/icomoon.woff) format("woff"), url(../../static/img/icomoon.6309e8c4.svg#icomoon) format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+[class^="icon-"].data-v-108ab79c, [class*=" icon-"].data-v-108ab79c {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-exchange.data-v-108ab79c:before {
+  content: "\f0ec";
+}
+.icon-coin-yen.data-v-108ab79c:before {
+  content: "\e93e";
+}
+.icon-schedule.data-v-108ab79c:before {
+  content: "\e8b5";
+}
+.icon-assignment.data-v-108ab79c:before {
+  content: "\e85d";
+}
+.icon-assignment_ind.data-v-108ab79c:before {
+  content: "\e85e";
+}
+.icon-assignment_late.data-v-108ab79c:before {
+  content: "\e85f";
+}
+.icon-domain.data-v-108ab79c:before {
+  content: "\e7ee";
+}
+.icon-cloud_queue.data-v-108ab79c:before {
+  content: "\e2c2";
+}
+.icon-payment.data-v-108ab79c:before {
+  content: "\e8a1";
+}
+.icon-date_range.data-v-108ab79c:before {
+  content: "\e916";
+}
+.icon-dehaze.data-v-108ab79c:before {
+  content: "\e3c7";
+}
+.icon-exit_to_app.data-v-108ab79c:before {
+  content: "\e879";
+}
+.icon-exposure.data-v-108ab79c:before {
+  content: "\e3ca";
+}
+.icon-phone_forwarded.data-v-108ab79c:before {
+  content: "\e61c";
+}
+.icon-textsms.data-v-108ab79c:before {
+  content: "\e0d8";
+}
+.icon-vertical_align_top.data-v-108ab79c:before {
+  content: "\e25a";
+}
+.icon-keyboard_arrow_down.data-v-108ab79c:before {
+  content: "\e313";
+}
+.icon-keyboard_arrow_up.data-v-108ab79c:before {
+  content: "\e316";
+}
+.icon-lock.data-v-108ab79c:before {
+  content: "\e897";
+}
+.icon-keyboard_arrow_left.data-v-108ab79c:before {
+  content: "\e314";
+}
+.icon-keyboard_arrow_right.data-v-108ab79c:before {
+  content: "\e315";
+}
+.icon-stats-dots.data-v-108ab79c:before {
+  content: "\e99b";
+}
+.icon-list2.data-v-108ab79c:before {
+  content: "\e9bb";
+}
+.icon-add_box.data-v-108ab79c:before {
+  content: "\e146";
+}
+.icon-highlight_off.data-v-108ab79c:before {
+  content: "\e888";
+}
+.icon-border_color.data-v-108ab79c:before {
+  content: "\e22b";
+}
+.icon-library_books.data-v-108ab79c:before {
+  content: "\e02f";
+}
+.icon-sentiment_dissatisfied.data-v-108ab79c:before {
+  content: "\e811";
+}
+.icon-sentiment_satisfied.data-v-108ab79c:before {
+  content: "\e813";
+}
+.icon-web.data-v-108ab79c:before {
+  content: "\e051";
+}
+.icon-award.data-v-108ab79c:before {
+  content: "\e900";
+}
+.icon-calendar.data-v-108ab79c:before {
+  content: "\e901";
+}
+.icon-file-text.data-v-108ab79c:before {
+  content: "\e902";
+}
+.icon-layout.data-v-108ab79c:before {
+  content: "\e903";
+}
+.icon-paperclip.data-v-108ab79c:before {
+  content: "\e904";
+}
+.icon-book.data-v-108ab79c:before {
+  content: "\e91f";
+}
+.icon-files-empty.data-v-108ab79c:before {
+  content: "\e925";
+}
+.icon-file-text2.data-v-108ab79c:before {
+  content: "\e926";
+}
+.icon-earth.data-v-108ab79c:before {
+  content: "\e9ca";
+}
+.red.data-v-108ab79c {
+  color: #dd1917;
+}
+.orange.data-v-108ab79c {
+  color: #f4a509;
+}
+.fontorange.data-v-108ab79c {
+  color: #ec6f00;
+}
+.green.data-v-108ab79c {
+  color: #017b07;
+}
+.violet.data-v-108ab79c {
+  color: #52149d;
+}
+.yellow.data-v-108ab79c {
+  color: #f5ed13;
+}
+.bluelight.data-v-108ab79c {
+  color: #47c2b9;
+}
+.blue.data-v-108ab79c {
+  color: #189e95;
+}
+.graybgc.data-v-108ab79c {
+  background-color: #f8f8f8;
+}
+.container.data-v-108ab79c {
+  background-color: #FFFFFF;
+  padding-left: 28rpx;
+  padding-right: 28rpx;
+  padding-top: 20rpx;
+  padding-bottom: 40rpx;
+  white-space: nowrap;
+}
+.section.data-v-108ab79c {
+  display: inline-block;
+  width: 160rpx;
+}
+.section .selectedDay.data-v-108ab79c {
+  width: 160rpx;
+  height: 80rpx;
+  line-height: 100rpx;
+  text-align: center;
+  background-color: #189e95;
+  color: #fff;
+  border-bottom: 1px solid #47c2b9;
+  color: #FFFFFF;
+  font-size: 28rpx;
+}
+.todayWeekCN.data-v-108ab79c {
+  height: 100rpx;
+  line-height: 100rpx;
+  text-align: center;
+  border-right: 1px solid #f1f1f1;
+  color: #4a4a4a;
+  font-size: 28rpx;
+  border-bottom: 1px solid #f1f1f1;
+}
+.scoll-box.data-v-108ab79c {
+  display: inline-block;
+  width: 100%;
+  vertical-align: top;
+}
+.scoll-box .curriculum.data-v-108ab79c {
+  display: inline-block;
+  width: 160rpx;
+  vertical-align: top;
+}
+.scoll-box .curriculum .curriculum-title.data-v-108ab79c {
+  height: 80rpx;
+  line-height: 80rpx;
+  text-align: center;
+  background-color: #f8f8f8;
+  vertical-align: top;
+  font-size: 28rpx;
+  color: #4a4a4a;
+}
+.scoll-box .curriculum .curriculum-item.data-v-108ab79c {
+  height: 100rpx;
+  line-height: 100rpx;
+  text-align: center;
+  background-color: #f8f8f8;
+  vertical-align: top;
+  font-size: 28rpx;
+  border-right: 1px solid #f1f1f1;
+  color: #4a4a4a;
+  border-bottom: 1px solid #f1f1f1;
+}
+.scoll-box .curriculum-place.data-v-108ab79c {
+  display: inline-block;
+  vertical-align: top;
+}
+.scoll-box .curriculum-place .curriculum-title.data-v-108ab79c {
+  height: 80rpx;
+  line-height: 80rpx;
+  text-align: center;
+  background-color: #f8f8f8;
+  vertical-align: top;
+  font-size: 28rpx;
+  color: #4a4a4a;
+}
+.scoll-box .curriculum-place .curriculum-item.data-v-108ab79c {
+  height: 100rpx;
+  line-height: 100rpx;
+  text-align: center;
+  background-color: #f8f8f8;
+  vertical-align: top;
+  font-size: 28rpx;
+  border-right: 1px solid #f1f1f1;
+  color: #4a4a4a;
+  padding: 0 10rpx;
+  border-bottom: 1px solid #f1f1f1;
+}
+

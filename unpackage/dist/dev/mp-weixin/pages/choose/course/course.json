@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "选科",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "header": "/utils/header",
+    "toast": "/utils/toast",
+    "toptips": "/utils/toptips"
+  }
+}
